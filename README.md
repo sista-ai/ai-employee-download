@@ -7,49 +7,92 @@
 <h1 align="center">Sista AI Desktop Companion</h1>
 
 <p align="center">
-	<strong>Give your AI employees hands on your computer.</strong><br/>
-	The official desktop companion for the <a href="https://work.sista.ai">Sista AI Employee</a> platform.<br/>
-	Lets your hired AI employees control your browser and computer, securely and locally.
+	<strong>AI agents that use your browser and control your computer.</strong><br/>
+	The official desktop companion for the <a href="https://work.sista.ai">Sista AI Workforce Platform</a> —<br/>
+	a production-grade <em>browser use</em> + <em>computer use</em> runtime for AI agents, running locally on your machine.
 </p>
 
 <p align="center">
 	<a href="https://sista.ai">sista.ai</a> ·
 	<a href="https://work.sista.ai">work.sista.ai</a> ·
-	<a href="https://github.com/sista-ai/ai-employee-download/releases/latest">Latest Release</a>
+	<a href="https://github.com/sista-ai/ai-employee-download/releases/latest">Download Latest</a>
 </p>
 
 <p align="center">
-	<img src="assets/desktop-companion.png" alt="Sista AI Desktop Companion" width="820" />
+	<img src="assets/desktop-companion.png" alt="Sista AI Desktop Companion — AI agents controlling browser and computer" width="820" />
+</p>
+
+<p align="center">
+	<sub>
+		<code>ai agent</code> ·
+		<code>ai agents</code> ·
+		<code>browser use</code> ·
+		<code>computer use</code> ·
+		<code>browser automation</code> ·
+		<code>computer control</code> ·
+		<code>desktop agent</code> ·
+		<code>agent orchestration</code> ·
+		<code>multi-agent</code> ·
+		<code>llm agents</code> ·
+		<code>autonomous agents</code> ·
+		<code>ai workforce</code> ·
+		<code>ai employees</code>
+	</sub>
 </p>
 
 ---
 
-## What is Sista AI?
+## What this is
 
-Sista AI is a platform where businesses **hire AI employees** the same way they hire humans. You browse a talent market, interview candidates, sign a contract, and manage your AI workforce in a Slack-like workspace. Each employee has skills, duties, memory, and tools, and lives in your company permanently.
+**Sista AI Desktop Companion** is a native desktop app (macOS, Windows, Linux) that acts as the **local execution runtime for AI agents**. It gives autonomous AI agents — running in the [Sista AI](https://work.sista.ai) cloud — real hands on your machine: full browser use, computer use, file access, and terminal execution.
 
-Learn more at [sista.ai](https://sista.ai) · Start hiring at [work.sista.ai](https://work.sista.ai)
+If you've seen *Browser Use*, *Anthropic Computer Use*, *OpenAI Operator*, or similar *agent orchestration* research, this is a production-grade version of that idea, wired into a full AI workforce platform. The cloud runs the **brain** (reasoning, memory, multi-agent coordination, sprint planning). This app is the **hands** (browser, keyboard, mouse, files, shell).
 
-## What is the Desktop Companion?
+### What the AI agents can do through this app
 
-The Sista AI platform runs in the cloud, but your AI employees often need to work **on your machine**: opening your browser with your logged-in sessions, filling forms, reading files, running terminal commands, controlling native apps.
+- **Browser use** — navigate any website, click, type, fill forms, extract structured data, complete end-to-end tasks in your real browser with your real logged-in sessions (Gmail, Slack, Notion, Linear, GitHub, Figma, Shopify, Stripe, you name it)
+- **Computer use / computer control** — take screenshots, move the mouse, press keys, control native desktop apps the same way a human would
+- **File system access** — read, write, and organize files in your home directory (sandboxed)
+- **Terminal / shell execution** — run commands, scripts, CLIs with destructive-command protection
+- **Multi-agent delegation** — the platform's team leaders delegate sub-tasks to specialist agents, each of which can use this app as their hands
 
-The Desktop Companion is a small, native app that runs locally and gives your AI employees a secure bridge into your computer. It connects to the Sista AI cloud over an authenticated WebSocket and executes commands on your behalf, under your control.
+## Hire AI like you hire humans
 
-- **Browser automation** — navigate, click, type, extract data from any web page using your real browser and logged-in accounts
-- **Computer control** — take screenshots, move the mouse, type on the keyboard, manage files, run shell commands
-- **Runs fully local** — the AI brain stays in the cloud, the hands stay on your machine
-- **Human-in-the-loop** — every sensitive action can require your approval
-- **Open by design** — installers built in public via GitHub Actions, checksummed, and published here
+[work.sista.ai](https://work.sista.ai) is a marketplace where you **hire AI employees and AI teams** the way you'd hire humans. Pick a team — Marketing, Sales, or build your own — and you land in a chat with the team leader. Tell them what you need: *"I'm launching a new product and need content marketing that drives organic traffic."* They ask the right questions, connect to your tools, plan sprints, delegate to specialists, and deliver work in recurring cycles.
+
+Each employee is a fully autonomous LLM agent with persona, skills, duties, long-term memory, a knowledge graph, and access to 900+ tool integrations. Teams coordinate through agent-to-agent delegation. Every employee can pick up this Desktop Companion as a tool — that's when they stop being just a chatbot and start actually doing things on your machine.
+
+- **Teams, not single chatbots** — Marketing, Sales, custom — 7+ specialists per team, coordinated by an AI team leader
+- **Sprint-based delivery** — plan → execute → review → self-correct, automatically
+- **Conversation-first** — one chat with the leader is enough, no workflow builder
+- **900+ OAuth tool integrations** — Gmail, Slack, Notion, Salesforce, HubSpot, Stripe, Shopify, GitHub, Linear, and more
+- **Multi-layer agent memory** — short-term, long-term, knowledge graph, episodic, procedural, shared, adaptive
+- **Built-in governance** — guardrails, approval gates, audit trails, SOC 2 / GDPR / EU AI Act ready
+- **Credit-based SaaS** — Free, Pro, Team, Scale, Enterprise
+
+## Why you need this app
+
+The cloud can't reach your logged-in accounts, your local files, or your terminal. This app is what turns a cloud chatbot into an **autonomous desktop agent** that actually gets work done on your machine.
+
+Install it once, sign in once, and every AI employee you've hired on [work.sista.ai](https://work.sista.ai) gets hands on your computer — under your rules.
+
+## You stay in control
+
+- **Approval gates** — mark sensitive actions so the agent has to ask before doing them
+- **Dangerous command blocking** — `rm -rf /`, `dd`, `mkfs`, `shutdown`, `sudo`, fork bombs, and similar patterns are refused at the app level before they ever run
+- **File sandboxing** — file access is restricted to your home directory
+- **No password handling** — agents use sessions you're already logged into; they never see or store your credentials
+- **Encrypted connection** — authenticated TLS WebSocket tied to your Sista AI account
+- **Quit anytime** — close the app and your agents lose their hands instantly
 
 ## Download
 
 Grab the latest installer for your operating system:
 
-| OS       | Installer                      | Link |
-| -------- | ------------------------------ | ---- |
-| macOS    | `Sista-Mac-Desktop.dmg`        | [Download](https://github.com/sista-ai/ai-employee-download/releases/latest/download/Sista-Mac-Desktop.dmg) |
-| Windows  | `Sista-Windows-Desktop.msi`    | [Download](https://github.com/sista-ai/ai-employee-download/releases/latest/download/Sista-Windows-Desktop.msi) |
+| OS       | Installer                      | Download                                                                                                           |
+| -------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| macOS    | `Sista-Mac-Desktop.dmg`        | [Download](https://github.com/sista-ai/ai-employee-download/releases/latest/download/Sista-Mac-Desktop.dmg)        |
+| Windows  | `Sista-Windows-Desktop.msi`    | [Download](https://github.com/sista-ai/ai-employee-download/releases/latest/download/Sista-Windows-Desktop.msi)    |
 | Linux    | `Sista-Linux-Desktop.AppImage` | [Download](https://github.com/sista-ai/ai-employee-download/releases/latest/download/Sista-Linux-Desktop.AppImage) |
 
 All releases: [github.com/sista-ai/ai-employee-download/releases](https://github.com/sista-ai/ai-employee-download/releases)
@@ -60,25 +103,25 @@ All releases: [github.com/sista-ai/ai-employee-download/releases](https://github
 2. Install and launch **Sista AI Desktop Companion**
 3. Click **Sign in with Sista AI** — your browser opens to [work.sista.ai](https://work.sista.ai), you approve, and the app connects automatically
 4. Grant the required OS permissions (Screen Recording + Accessibility on macOS, equivalents on other OSes)
-5. Head back to [work.sista.ai](https://work.sista.ai) — your AI employees now have hands
+5. Head back to [work.sista.ai](https://work.sista.ai) — your AI agents now have hands
 
-## Security
+## Use Cases
 
-- **Local execution** — all actions run on your machine, in your user account, with your permissions
-- **Authenticated** — connects over TLS WebSocket with a short-lived JWT from your Sista AI account
-- **Path sandboxing** — file operations are restricted to your home directory
-- **Destructive command blocking** — dangerous shell patterns (`rm -rf /`, `dd`, `mkfs`, `shutdown`, `sudo`, fork bombs, and more) are refused at the app level
-- **Human approval gates** — configurable per action, per employee, per workflow
+- **Autonomous web tasks** — agents log into SaaS apps you already use and complete end-to-end flows
+- **Data extraction** — structured extraction from any website using real authenticated sessions
+- **Sales outreach** — research prospects, draft messages in your CRM, send via your account
+- **Marketing execution** — publish posts, schedule campaigns, update your CMS
+- **Customer support** — triage tickets, draft responses, update tickets in your helpdesk
+- **Research workflows** — deep research across logged-in tools, with local file output
+- **Dev workflows** — agents running CLI tools, reading logs, editing files under supervision
 
-## About This Repository
+## Related terms people search for
 
-This repository **only hosts the signed installer binaries** for the Sista AI Desktop Companion. There is no application source code here. The source lives in the private [sista-ai/ai-employee](https://github.com/sista-ai/ai-employee) monorepo and is built in public via GitHub Actions, with the installers uploaded as release assets to this repo.
-
-The "Source code (zip/tar.gz)" assets that GitHub auto-attaches to every release contain only this README and the `assets/` folder — not the product source.
+AI agents, autonomous agents, LLM agents, agentic AI, agent orchestration, multi-agent systems, agent-to-agent delegation, browser use, computer use, Anthropic computer use, OpenAI Operator, Browser Use library, Playwright agent, desktop agent, computer control, browser automation, AI assistant for desktop, AI employee, AI workforce, AI workforce platform, AI team, AI teammate, hire AI, AI for business, LangGraph agent, LangChain agent, Temporal workflows, self-hosted AI agent runtime.
 
 ## Links
 
-- Website — [sista.ai](https://sista.ai)
+- Company — [sista.ai](https://sista.ai)
 - Product — [work.sista.ai](https://work.sista.ai)
 - Latest release — [releases/latest](https://github.com/sista-ai/ai-employee-download/releases/latest)
 
