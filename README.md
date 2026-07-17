@@ -7,9 +7,18 @@
 <h1 align="center">Sistava Desktop Companion</h1>
 
 <p align="center">
-	<strong>AI employees and AI agents that use your browser and control your computer.</strong><br/>
-	The official desktop companion for the <a href="https://sistava.com">Sistava AI Workforce Platform</a> -<br/>
-	a production-grade <em>browser use</em> + <em>computer use</em> runtime for your AI employees and AI agents, running locally on your machine.
+	<strong>An AI agent that controls your computer and browser, so it can do real work for you.</strong>
+</p>
+
+<p align="center">
+	Sistava Desktop Companion is a free app for macOS, Windows, and Linux that lets an AI agent
+	take real control of your desktop: it browses the web in your own logged-in sessions, clicks and
+	types, fills forms, moves files, and runs commands, exactly like a person sitting at your keyboard.
+	<br/><br/>
+	It is the local runtime for the <strong>AI employees</strong> you hire on the
+	<a href="https://sistava.com">Sistava AI Workforce Platform</a>. The cloud is the brain (reasoning,
+	memory, planning); this app is the hands. Built on production-grade <em>browser use</em> and
+	<em>computer use</em>, running locally on your machine.
 </p>
 
 <p align="center">
@@ -69,11 +78,13 @@ That's it. No config files, no API keys, no setup. [Full steps below.](#install-
 
 ## What this is: the desktop runtime for your AI employees
 
-**Sistava Desktop Companion** is a native desktop app (macOS, Windows, Linux) that acts as the **local execution runtime for AI employees and AI agents**. It gives your autonomous AI employees - the AI agents you hire and run in the Sistava cloud - real hands on your machine: full browser use, computer use, file access, and terminal execution.
+**Sistava Desktop Companion** is a native desktop app (macOS, Windows, Linux) that acts as the **local execution runtime for your AI employees**. It gives an autonomous AI agent, running in the Sistava cloud, real hands on your machine: full browser use, computer use, file access, and terminal execution.
+
+**New here? In plain terms:** you tell an AI what you want done. Normally an AI can only talk back. With this app installed, the AI can actually do it on your computer: open your browser, log into the tools you already use, click around, fill things in, download and organize files, and run tasks start to finish, while you watch and stay in control. Think of it as giving a smart assistant a real keyboard and mouse on your machine, instead of just a chat box. If you searched for "an AI agent to control my computer" or "an AI that can use my browser," this is that, packaged as a proper AI employee you can hire and manage.
 
 If you've seen *Browser Use*, *Anthropic Computer Use*, *OpenAI Operator*, or similar *agent orchestration* research, this is a production-grade version of that idea, wired into a full AI workforce platform. The cloud runs the **brain** (reasoning, memory, multi-agent coordination, sprint planning). This app is the **hands** (browser, keyboard, mouse, files, shell).
 
-### What your AI employees and AI agents can do through this app
+### What your AI employees can do through this app
 
 - **Browser use** - navigate any website, click, type, fill forms, extract structured data, complete end-to-end tasks in your real browser with your real logged-in sessions (Gmail, Slack, Notion, Linear, GitHub, Figma, Shopify, Stripe, you name it)
 - **Computer use / computer control** - take screenshots, move the mouse, press keys, control native desktop apps the same way a human would
@@ -83,7 +94,7 @@ If you've seen *Browser Use*, *Anthropic Computer Use*, *OpenAI Operator*, or si
 
 ## Hire AI employees like you hire humans
 
-[sistava.com](https://sistava.com) is a marketplace where you **hire AI employees and AI agent teams** the way you'd hire humans. Pick a team - Marketing, Sales, or build your own - and you land in a chat with the team leader. Tell them what you need: *"I'm launching a new product and need content marketing that drives organic traffic."* They ask the right questions, connect to your tools, plan sprints, delegate to specialists, and deliver work in recurring cycles.
+[sistava.com](https://sistava.com) is a marketplace where you **hire AI employees and AI teams** the way you'd hire humans. Pick a team - Marketing, Sales, or build your own - and you land in a chat with the team leader. Tell them what you need: *"I'm launching a new product and need content marketing that drives organic traffic."* They ask the right questions, connect to your tools, plan sprints, delegate to specialists, and deliver work in recurring cycles.
 
 Each employee is a fully autonomous LLM agent with persona, skills, duties, long-term memory, a knowledge graph, and access to 900+ tool integrations. Teams coordinate through agent-to-agent delegation. Every employee can pick up this Desktop Companion as a tool - that's when they stop being just a chatbot and start actually doing things on your machine.
 
@@ -99,7 +110,7 @@ Each employee is a fully autonomous LLM agent with persona, skills, duties, long
 
 The cloud can't reach your logged-in accounts, your local files, or your terminal. This app is what turns a cloud chatbot into an **autonomous AI employee** - a desktop AI agent that actually gets work done on your machine.
 
-Install it once, sign in once, and every AI employee and AI agent you've hired on sistava.com gets hands on your computer - under your rules.
+Install it once, sign in once, and every AI employee you've hired on sistava.com gets hands on your computer, under your rules.
 
 ## You stay in control of every AI employee
 
