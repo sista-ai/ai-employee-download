@@ -1,0 +1,27 @@
+Copyright (c) 2026 Sista AI. All rights reserved.
+
+Sistava and the Sistava Desktop Companion are proprietary software.
+
+This repository is used to distribute the official Sistava Desktop Companion
+installers and related documentation. The application and its installers are
+provided for use with a valid Sistava account, subject to the Sistava Terms of
+Service (https://sistava.com/terms) and Privacy Policy
+(https://sistava.com/privacy).
+
+You MAY:
+  - Download and install the official installers published in this repository.
+  - Use the application to connect to your own Sistava account.
+
+You MAY NOT, without prior written permission from Sista AI:
+  - Copy, modify, reverse engineer, decompile, or disassemble the application.
+  - Redistribute, resell, sublicense, or host the installers or application.
+  - Remove or alter any proprietary notices.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.
+
+For licensing inquiries, contact contact@sista.ai.

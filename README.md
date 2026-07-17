@@ -1,25 +1,37 @@
 <p align="center">
-	<a href="https://sista.ai">
-		<img src="assets/sista-logo.png" alt="Sistava" width="260" />
+	<a href="https://sistava.com">
+		<img src="https://sistava.com/global-assets/logo/sistava-logo.png" alt="Sistava" width="260" />
 	</a>
 </p>
 
 <h1 align="center">Sistava Desktop Companion</h1>
 
 <p align="center">
-	<strong>AI agents that use your browser and control your computer.</strong><br/>
-	The official desktop companion for the <a href="https://sistava.com">Sistava Workforce Platform</a> —<br/>
-	a production-grade <em>browser use</em> + <em>computer use</em> runtime for AI agents, running locally on your machine.
+	<strong>AI employees and AI agents that use your browser and control your computer.</strong><br/>
+	The official desktop companion for the <a href="https://sistava.com">Sistava AI Workforce Platform</a> -<br/>
+	a production-grade <em>browser use</em> + <em>computer use</em> runtime for your AI employees and AI agents, running locally on your machine.
+</p>
+
+<p align="center">
+	<a href="https://sistava.com/en/auth/signup"><img src="https://img.shields.io/badge/Sign_up_free-6C47FF?style=for-the-badge&logoColor=white" alt="Sign up free" /></a>
+	<a href="https://sistava.com/en/guide"><img src="https://img.shields.io/badge/Read_the_guide-4B5563?style=for-the-badge&logoColor=white" alt="Read the guide" /></a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/sista-ai/ai-employee-download/releases/latest/download/Sistava-Mac.dmg"><img src="https://img.shields.io/badge/Download_for_macOS-111827?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS" /></a>
+	<a href="https://github.com/sista-ai/ai-employee-download/releases/latest/download/Sistava-Windows.msi"><img src="https://img.shields.io/badge/Download_for_Windows-111827?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows" /></a>
+	<a href="https://github.com/sista-ai/ai-employee-download/releases/latest/download/Sistava-Linux.AppImage"><img src="https://img.shields.io/badge/Download_for_Linux-111827?style=for-the-badge&logo=linux&logoColor=white" alt="Download for Linux" /></a>
 </p>
 
 <p align="center">
 	<a href="https://sista.ai">sista.ai</a> ·
 	<a href="https://sistava.com">sistava.com</a> ·
+	<a href="https://sistava.com/en/guide">Guide</a> ·
 	<a href="https://github.com/sista-ai/ai-employee-download/releases/latest">Download Latest</a>
 </p>
 
 <p align="center">
-	<img src="assets/desktop-companion.png" alt="Sistava Desktop Companion — AI agents controlling browser and computer" width="820" />
+	<img src="https://sistava.com/site-assets-opt/screenshots/features/desktop-1600w.avif" alt="Sistava Desktop Companion - AI agents controlling the browser and computer" width="900" />
 </p>
 
 <p align="center">
@@ -42,48 +54,63 @@
 
 ---
 
-## What this is
+## Get started in under a minute
 
-**Sistava Desktop Companion** is a native desktop app (macOS, Windows, Linux) that acts as the **local execution runtime for AI agents**. It gives autonomous AI agents — running in the [Sistava](https://sistava.com) cloud — real hands on your machine: full browser use, computer use, file access, and terminal execution.
+**Download → Open → Connect → Chat with your laptop.**
+
+1. ⬇️ **Download** the installer for your OS ([Mac](https://github.com/sista-ai/ai-employee-download/releases/latest/download/Sistava-Mac.dmg) · [Windows](https://github.com/sista-ai/ai-employee-download/releases/latest/download/Sistava-Windows.msi) · [Linux](https://github.com/sista-ai/ai-employee-download/releases/latest/download/Sistava-Linux.AppImage))
+2. 📂 **Open** the app and click **Sign in with Sistava** (free account, sign up in the browser that pops open)
+3. 🔗 **Connect** - approve, grant the OS permissions it asks for, and the app links to your account automatically
+4. 💬 **Chat** - go to sistava.com, tell your AI employee what to do, and it now has hands on your laptop
+
+That's it. No config files, no API keys, no setup. [Full steps below.](#install--connect)
+
+---
+
+## What this is: the desktop runtime for your AI employees
+
+**Sistava Desktop Companion** is a native desktop app (macOS, Windows, Linux) that acts as the **local execution runtime for AI employees and AI agents**. It gives your autonomous AI employees - the AI agents you hire and run in the Sistava cloud - real hands on your machine: full browser use, computer use, file access, and terminal execution.
 
 If you've seen *Browser Use*, *Anthropic Computer Use*, *OpenAI Operator*, or similar *agent orchestration* research, this is a production-grade version of that idea, wired into a full AI workforce platform. The cloud runs the **brain** (reasoning, memory, multi-agent coordination, sprint planning). This app is the **hands** (browser, keyboard, mouse, files, shell).
 
-### What the AI agents can do through this app
+### What your AI employees and AI agents can do through this app
 
-- **Browser use** — navigate any website, click, type, fill forms, extract structured data, complete end-to-end tasks in your real browser with your real logged-in sessions (Gmail, Slack, Notion, Linear, GitHub, Figma, Shopify, Stripe, you name it)
-- **Computer use / computer control** — take screenshots, move the mouse, press keys, control native desktop apps the same way a human would
-- **File system access** — read, write, and organize files in your home directory (sandboxed)
-- **Terminal / shell execution** — run commands, scripts, CLIs with destructive-command protection
-- **Multi-agent delegation** — the platform's team leaders delegate sub-tasks to specialist agents, each of which can use this app as their hands
+- **Browser use** - navigate any website, click, type, fill forms, extract structured data, complete end-to-end tasks in your real browser with your real logged-in sessions (Gmail, Slack, Notion, Linear, GitHub, Figma, Shopify, Stripe, you name it)
+- **Computer use / computer control** - take screenshots, move the mouse, press keys, control native desktop apps the same way a human would
+- **File system access** - read, write, and organize files in your home directory (sandboxed)
+- **Terminal / shell execution** - run commands, scripts, CLIs with destructive-command protection
+- **Multi-agent delegation** - the platform's team leaders delegate sub-tasks to specialist agents, each of which can use this app as their hands
 
-## Hire AI like you hire humans
+## Hire AI employees like you hire humans
 
-[sistava.com](https://sistava.com) is a marketplace where you **hire AI employees and AI teams** the way you'd hire humans. Pick a team — Marketing, Sales, or build your own — and you land in a chat with the team leader. Tell them what you need: *"I'm launching a new product and need content marketing that drives organic traffic."* They ask the right questions, connect to your tools, plan sprints, delegate to specialists, and deliver work in recurring cycles.
+[sistava.com](https://sistava.com) is a marketplace where you **hire AI employees and AI agent teams** the way you'd hire humans. Pick a team - Marketing, Sales, or build your own - and you land in a chat with the team leader. Tell them what you need: *"I'm launching a new product and need content marketing that drives organic traffic."* They ask the right questions, connect to your tools, plan sprints, delegate to specialists, and deliver work in recurring cycles.
 
-Each employee is a fully autonomous LLM agent with persona, skills, duties, long-term memory, a knowledge graph, and access to 900+ tool integrations. Teams coordinate through agent-to-agent delegation. Every employee can pick up this Desktop Companion as a tool — that's when they stop being just a chatbot and start actually doing things on your machine.
+Each employee is a fully autonomous LLM agent with persona, skills, duties, long-term memory, a knowledge graph, and access to 900+ tool integrations. Teams coordinate through agent-to-agent delegation. Every employee can pick up this Desktop Companion as a tool - that's when they stop being just a chatbot and start actually doing things on your machine.
 
-- **Teams, not single chatbots** — Marketing, Sales, custom — 7+ specialists per team, coordinated by an AI team leader
-- **Sprint-based delivery** — plan → execute → review → self-correct, automatically
-- **Conversation-first** — one chat with the leader is enough, no workflow builder
-- **900+ OAuth tool integrations** — Gmail, Slack, Notion, Salesforce, HubSpot, Stripe, Shopify, GitHub, Linear, and more
-- **Multi-layer agent memory** — short-term, long-term, knowledge graph, episodic, procedural, shared, adaptive
-- **Built-in governance** — guardrails, approval gates, audit trails, SOC 2 / GDPR / EU AI Act ready
-- **Credit-based SaaS** — Free, Pro, Team, Scale, Enterprise
+- **Teams, not single chatbots** - Marketing, Sales, custom - 7+ specialists per team, coordinated by an AI team leader
+- **Sprint-based delivery** - plan → execute → review → self-correct, automatically
+- **Conversation-first** - one chat with the leader is enough, no workflow builder
+- **900+ OAuth tool integrations** - Gmail, Slack, Notion, Salesforce, HubSpot, Stripe, Shopify, GitHub, Linear, and more
+- **Multi-layer agent memory** - short-term, long-term, knowledge graph, episodic, procedural, shared, adaptive
+- **Built-in governance** - guardrails, approval gates, audit trails, SOC 2 / GDPR / EU AI Act ready
+- **Credit-based SaaS** - Free, Pro, Team, Scale, Enterprise
 
-## Why you need this app
+## Why your AI employees need this app
 
-The cloud can't reach your logged-in accounts, your local files, or your terminal. This app is what turns a cloud chatbot into an **autonomous desktop agent** that actually gets work done on your machine.
+The cloud can't reach your logged-in accounts, your local files, or your terminal. This app is what turns a cloud chatbot into an **autonomous AI employee** - a desktop AI agent that actually gets work done on your machine.
 
-Install it once, sign in once, and every AI employee you've hired on [sistava.com](https://sistava.com) gets hands on your computer — under your rules.
+Install it once, sign in once, and every AI employee and AI agent you've hired on sistava.com gets hands on your computer - under your rules.
 
-## You stay in control
+## You stay in control of every AI employee
 
-- **Approval gates** — mark sensitive actions so the agent has to ask before doing them
-- **Dangerous command blocking** — `rm -rf /`, `dd`, `mkfs`, `shutdown`, `sudo`, fork bombs, and similar patterns are refused at the app level before they ever run
-- **File sandboxing** — file access is restricted to your home directory
-- **No password handling** — agents use sessions you're already logged into; they never see or store your credentials
-- **Encrypted connection** — authenticated TLS WebSocket tied to your Sistava account
-- **Quit anytime** — close the app and your agents lose their hands instantly
+- **Approval gates** - mark sensitive actions so the AI employee has to ask before doing them
+- **Dangerous command blocking** - `rm -rf /`, `dd`, `mkfs`, `shutdown`, `sudo`, fork bombs, and similar patterns are refused at the app level before they ever run
+- **File sandboxing** - file access is restricted to your home directory
+- **No password handling** - agents use sessions you're already logged into; they never see or store your credentials
+- **Encrypted connection** - authenticated TLS WebSocket tied to your Sistava account
+- **Quit anytime** - close the app and your agents lose their hands instantly
+
+Your data is handled under the [Privacy Policy](https://sistava.com/privacy), and use of the app is governed by the [Terms of Service](https://sistava.com/terms).
 
 ## Download
 
@@ -101,19 +128,64 @@ All releases: [github.com/sista-ai/ai-employee-download/releases](https://github
 
 1. Download the installer for your OS from the table above
 2. Install and launch **Sistava Desktop Companion**
-3. Click **Sign in with Sistava** — your browser opens to [sistava.com](https://sistava.com), you approve, and the app connects automatically
+3. Click **Sign in with Sistava** - your browser opens to sistava.com, you approve, and the app connects automatically
 4. Grant the required OS permissions (Screen Recording + Accessibility on macOS, equivalents on other OSes)
-5. Head back to [sistava.com](https://sistava.com) — your AI agents now have hands
+5. Head back to sistava.com - your AI agents now have hands
 
-## Use Cases
+## AI employee & AI agent use cases
 
-- **Autonomous web tasks** — agents log into SaaS apps you already use and complete end-to-end flows
-- **Data extraction** — structured extraction from any website using real authenticated sessions
-- **Sales outreach** — research prospects, draft messages in your CRM, send via your account
-- **Marketing execution** — publish posts, schedule campaigns, update your CMS
-- **Customer support** — triage tickets, draft responses, update tickets in your helpdesk
-- **Research workflows** — deep research across logged-in tools, with local file output
-- **Dev workflows** — agents running CLI tools, reading logs, editing files under supervision
+- **Autonomous web tasks** - your AI employees log into SaaS apps you already use and complete end-to-end flows
+- **Data extraction** - structured extraction from any website using real authenticated sessions
+- **Sales outreach** - research prospects, draft messages in your CRM, send via your account
+- **Marketing execution** - publish posts, schedule campaigns, update your CMS
+- **Customer support** - triage tickets, draft responses, update tickets in your helpdesk
+- **Research workflows** - deep research across logged-in tools, with local file output
+- **Dev workflows** - agents running CLI tools, reading logs, editing files under supervision
+
+## System Requirements
+
+| OS      | Minimum                                | Notes                                                        |
+| ------- | -------------------------------------- | ----------------------------------------------------------- |
+| macOS   | macOS 12 (Monterey) or later, Apple Silicon or Intel | Grant Screen Recording + Accessibility permissions on first launch |
+| Windows | Windows 10 (64-bit) or later           | `.msi` installer, standard user install                     |
+| Linux   | glibc 2.31+ (Ubuntu 20.04+, Fedora 36+, Debian 11+) | `.AppImage`, `chmod +x` then run                            |
+
+A free sistava.com account is required to sign in and connect. The app itself is free to download.
+
+## Frequently Asked Questions
+
+**What is the Sistava Desktop Companion?**
+It's a free native desktop app (macOS, Windows, Linux) that acts as the local execution runtime for AI agents. Your AI employees, hired on sistava.com, use it to control your real browser, control your computer, read and write files, and run terminal commands on your machine.
+
+**Is it free?**
+Yes, the desktop app is free to download and use. It connects to your Sistava account, which has a free tier plus paid plans (Pro, Team, Scale, Enterprise) for more agents and credits.
+
+**What's the difference between "browser use" and "computer use"?**
+Browser use means the agent drives your web browser: navigating, clicking, typing, filling forms, and extracting data using your real logged-in sessions. Computer use (also called computer control) means the agent controls the whole desktop: screenshots, mouse, keyboard, and native apps. This app does both.
+
+**Do I need to give the AI my passwords?**
+No. Agents act inside browser sessions you're already logged into. They never see, ask for, or store your credentials.
+
+**Is it safe? Can an agent delete my files or run dangerous commands?**
+There are multiple safeguards: approval gates on sensitive actions, dangerous-command blocking (`rm -rf /`, `dd`, `mkfs`, `shutdown`, fork bombs, and similar are refused before they run), file access sandboxed to your home directory, and an encrypted TLS connection tied to your account. Close the app and agents lose access instantly.
+
+**How is this different from Browser Use, Anthropic Computer Use, or OpenAI Operator?**
+Those are the underlying research ideas. Sistava is a production AI workforce platform built around them: the cloud runs the reasoning, memory, and multi-agent coordination (the brain), and this app is the local hands. You hire full AI employees and teams, not just run a single automation script.
+
+**Which platforms are supported?**
+macOS, Windows, and Linux. See the Download table and System Requirements above.
+
+**Does it work offline?**
+No. The agents' reasoning runs in the Sistava cloud, so an internet connection is required.
+
+**What permissions does it need on macOS?**
+Screen Recording and Accessibility, so the agent can see the screen and control the mouse and keyboard. You grant these on first launch.
+
+**How do I connect it to my AI employees?**
+Install and launch the app, click Sign in with Sistava, approve in your browser, and grant OS permissions. Every AI employee you've hired on sistava.com then has hands on your computer. See Install & Connect above.
+
+**How do I uninstall it?**
+Quit the app and remove it like any other application (drag to Trash on macOS, Add/Remove Programs on Windows, delete the AppImage on Linux). No background services are left running.
 
 ## Related terms people search for
 
@@ -121,12 +193,26 @@ AI agents, autonomous agents, LLM agents, agentic AI, agent orchestration, multi
 
 ## Links
 
-- Company — [sista.ai](https://sista.ai)
-- Product — [sistava.com](https://sistava.com)
-- Latest release — [releases/latest](https://github.com/sista-ai/ai-employee-download/releases/latest)
+- Hire AI employees (the product): [sistava.com](https://sistava.com)
+- Setup guide &amp; docs: [sistava.com/guide](https://sistava.com/en/guide)
+- Download the app (all releases): [github.com/sista-ai/ai-employee-download/releases](https://github.com/sista-ai/ai-employee-download/releases/latest)
+- White label &amp; source-code license: [sistava.com/white-label](https://sistava.com/white-label)
+- The company behind Sistava: [sista.ai](https://sista.ai)
+
+## License
+
+Proprietary. © 2026 Sista AI. All rights reserved. See [LICENSE](LICENSE). The app is free to download and use with a Sistava account; the software itself is not open source.
 
 ---
 
 <p align="center">
-	<sub>© Sistava · Hire AI like you hire humans.</sub>
+	<sub>© Sistava · Hire AI employees like you hire humans.</sub>
+</p>
+
+<p align="center">
+	<sub>
+		<a href="https://sistava.com/privacy">Privacy Policy</a> ·
+		<a href="https://sistava.com/terms">Terms of Service</a> ·
+		<a href="LICENSE">License</a>
+	</sub>
 </p>
