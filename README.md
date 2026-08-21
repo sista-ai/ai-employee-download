@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-The Desktop Controller is Sistava's free companion app for macOS, Windows, and Linux. It enables an AI agent to take direct control of your desktop just like a human operator—browsing within your active web sessions, clicking, typing, completing forms, managing files, and executing commands.
+The Desktop Controller is Sistava's free companion app for macOS, Windows, and Linux. It enables an AI agent to take direct control of your desktop just like a human operator, browsing within your active web sessions, clicking, typing, completing forms, managing files, and executing commands.
     <br/><br/>
     It is the local runtime for the <strong>AI employees</strong> you hire on the
     <a href="https://sistava.com">Sistava AI Workforce Platform</a>. The cloud is the brain (reasoning,
@@ -233,6 +233,21 @@ Install and launch the app, click **Sign in with Sistava**, approve in your brow
 
 **How do I uninstall it?**
 Quit the app and remove it like any other application (drag to Trash on macOS, Add/Remove Programs on Windows, delete the AppImage on Linux). No background services are left running.
+
+---
+
+## Sistava in action
+
+<table>
+  <tr>
+    <td width="50%"><img src="https://sistava.com/site-assets-opt/screenshots/features/drive-main-800w.webp" alt="Sistava Drive workspace" /></td>
+    <td width="50%"><img src="https://sistava.com/site-assets-opt/screenshots/features/task-800w.webp" alt="Sistava task management" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://sistava.com/site-assets-opt/screenshots/features/calendar-plan-a-day-800w.webp" alt="Sistava calendar planning" /></td>
+    <td width="50%"><img src="https://sistava.com/site-assets-opt/screenshots/features/chat-800w.webp" alt="Sistava workspace chat" /></td>
+  </tr>
+</table>
 
 ---
 
