@@ -136,19 +136,16 @@ Install it once, sign in once, and every AI employee you've hired on sistava.com
 
 <table>
   <tr>
-    <td width="33.33%"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/female-001-200w.webp" alt="Alice, Personal Assistant" /></td>
-    <td width="33.33%"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/female-005-200w.webp" alt="Aisha, Support Specialist" /></td>
-    <td width="33.33%"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/male-001-200w.webp" alt="Kenji, Sales Representative" /></td>
+    <td width="25%" align="center"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/female-001-200w.webp" alt="Alice, Personal Assistant" /><br /><strong>Alice</strong><br /><sub>Personal Assistant</sub></td>
+    <td width="25%" align="center"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/female-005-200w.webp" alt="Aisha, Support Specialist" /><br /><strong>Aisha</strong><br /><sub>Support Specialist</sub></td>
+    <td width="25%" align="center"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/male-001-200w.webp" alt="Kenji, Sales Representative" /><br /><strong>Kenji</strong><br /><sub>Sales Representative</sub></td>
+    <td width="25%" align="center"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/female-021-200w.webp" alt="Eva, Marketing Manager" /><br /><strong>Eva</strong><br /><sub>Marketing Manager</sub></td>
   </tr>
   <tr>
-    <td width="33.33%"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/female-021-200w.webp" alt="Eva, Marketing Manager" /></td>
-    <td width="33.33%"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/male-021-200w.webp" alt="Max, Operations Manager" /></td>
-    <td width="33.33%"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/female-022-200w.webp" alt="Naomi, HR Manager" /></td>
-  </tr>
-  <tr>
-    <td width="33.33%"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/female-011-200w.webp" alt="Marisol, Graphic Designer" /></td>
-    <td width="33.33%"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/male-025-200w.webp" alt="Kojo, Accountant" /></td>
-    <td width="33.33%"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/female-024-200w.webp" alt="Sara, Product Designer" /></td>
+    <td width="25%" align="center"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/male-021-200w.webp" alt="Max, Operations Manager" /><br /><strong>Max</strong><br /><sub>Operations Manager</sub></td>
+    <td width="25%" align="center"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/male-003-200w.webp" alt="Marco, Paralegal" /><br /><strong>Marco</strong><br /><sub>Paralegal</sub></td>
+    <td width="25%" align="center"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/female-011-200w.webp" alt="Marisol, Graphic Designer" /><br /><strong>Marisol</strong><br /><sub>Graphic Designer</sub></td>
+    <td width="25%" align="center"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/male-025-200w.webp" alt="Kojo, Accountant" /><br /><strong>Kojo</strong><br /><sub>Accountant</sub></td>
   </tr>
 </table>
 
