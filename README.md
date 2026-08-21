@@ -134,6 +134,26 @@ Install it once, sign in once, and every AI employee you've hired on sistava.com
 
 ---
 
+<table>
+  <tr>
+    <td width="33.33%"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/female-001-200w.webp" alt="Alice, Personal Assistant" /></td>
+    <td width="33.33%"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/female-005-200w.webp" alt="Aisha, Support Specialist" /></td>
+    <td width="33.33%"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/male-001-200w.webp" alt="Kenji, Sales Representative" /></td>
+  </tr>
+  <tr>
+    <td width="33.33%"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/female-021-200w.webp" alt="Eva, Marketing Manager" /></td>
+    <td width="33.33%"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/male-021-200w.webp" alt="Max, Operations Manager" /></td>
+    <td width="33.33%"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/female-022-200w.webp" alt="Naomi, HR Manager" /></td>
+  </tr>
+  <tr>
+    <td width="33.33%"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/female-011-200w.webp" alt="Marisol, Graphic Designer" /></td>
+    <td width="33.33%"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/male-025-200w.webp" alt="Kojo, Accountant" /></td>
+    <td width="33.33%"><img src="https://sistava.com/site-assets-opt/employees/profile-pic/female-024-200w.webp" alt="Sara, Product Designer" /></td>
+  </tr>
+</table>
+
+---
+
 ## You stay in control of every AI employee
 
 > [!SECURITY]
