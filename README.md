@@ -31,7 +31,8 @@
     <a href="https://sista.ai">sista.ai</a> ·
     <a href="https://sistava.com">sistava.com</a> ·
     <a href="https://sistava.com/en/guide">Guide</a> ·
-    <a href="https://github.com/sista-ai/ai-employee-download/releases/latest">Download Latest</a>
+    <a href="https://sistava.com/en/download">Download page</a> ·
+    <a href="https://sistava.com/en/developers">Developer Hub</a>
 </p>
 
 <p align="center">
@@ -41,10 +42,6 @@ The Desktop Controller is Sistava's free companion app for macOS, Windows, and L
     <a href="https://sistava.com">Sistava AI Workforce Platform</a>. The cloud is the brain (reasoning,
     memory, planning); this app is the hands. Built on production-grade <em>browser use</em> and
     <em>computer use</em>, running locally on your machine.
-</p>
-
-<p align="center">
-    <img src="https://sistava.com/site-assets-opt/screenshots/features/desktop-1600w.avif" alt="Sistava Desktop Controller - AI agents controlling the browser and computer" width="900" />
 </p>
 
 <p align="center">
@@ -92,6 +89,14 @@ The Desktop Controller is Sistava's free companion app for macOS, Windows, and L
 **New here? In plain terms:** you tell an AI what you want done. Normally an AI can only talk back. With this app installed, the AI can actually do it on your computer: open your browser, log into the tools you already use, click around, fill things in, download and organize files, and run tasks start to finish, while you watch and stay in control. Think of it as giving a smart assistant a real keyboard and mouse on your machine, instead of just a chat box. If you searched for "an AI agent to control my computer" or "an AI that can use my browser," this is that, packaged as a proper AI employee you can hire and manage.
 
 If you've seen *Browser Use*, *Anthropic Computer Use*, *OpenAI Operator*, or similar *agent orchestration* research, this is a production-grade version of that idea, wired into a full AI workforce platform.
+
+### The app on your desktop
+
+<p align="center">
+    <a href="https://sistava.com/en/download"><img src="https://sistava.com/site-assets-opt/screenshots/features/desktop-1600w.webp" alt="Sistava Desktop Controller, the desktop app your AI employees use as their hands" width="900" /></a>
+</p>
+
+This is the app you are downloading. It runs on your Mac, Windows or Linux computer and lets your AI employees use your browser and apps while you watch. Quit it any time and they lose access. [See every platform on the download page](https://sistava.com/en/download).
 
 ### Architecture Overview
 
@@ -257,12 +262,20 @@ Quit the app and remove it like any other application (drag to Trash on macOS, A
 
 <table>
   <tr>
-    <td width="50%"><img src="https://sistava.com/site-assets-opt/screenshots/features/drive-main-800w.webp" alt="Sistava Drive workspace" /></td>
-    <td width="50%"><img src="https://sistava.com/site-assets-opt/screenshots/features/task-800w.webp" alt="Sistava task management" /></td>
+    <td width="50%"><img src="https://sistava.com/site-assets-opt/screenshots/features/video-call-800w.webp" alt="Sistava Video call with an AI employee" /></td>
+    <td width="50%"><img src="https://sistava.com/site-assets-opt/screenshots/primary/sprint-800w.webp" alt="Sistava Task board" /></td>
   </tr>
   <tr>
-    <td width="50%"><img src="https://sistava.com/site-assets-opt/screenshots/features/calendar-plan-a-day-800w.webp" alt="Sistava calendar planning" /></td>
-    <td width="50%"><img src="https://sistava.com/site-assets-opt/screenshots/features/chat-800w.webp" alt="Sistava workspace chat" /></td>
+    <td width="50%"><img src="https://sistava.com/site-assets-opt/screenshots/features/calendar-block-time-800w.webp" alt="Sistava Calendar" /></td>
+    <td width="50%"><img src="https://sistava.com/site-assets-opt/screenshots/features/content-workspace-800w.webp" alt="Sistava Content workspace" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://sistava.com/site-assets-opt/screenshots/features/channels-mailbox-800w.webp" alt="Sistava Mailbox channels" /></td>
+    <td width="50%"><img src="https://sistava.com/site-assets-opt/screenshots/features/team-management-800w.webp" alt="Sistava Team management" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://sistava.com/site-assets-opt/screenshots/primary/team-dashboard-800w.webp" alt="Sistava Company dashboard" /></td>
+    <td width="50%"><img src="https://sistava.com/site-assets-opt/screenshots/features/crm-800w.webp" alt="Sistava CRM" /></td>
   </tr>
 </table>
 
@@ -277,6 +290,8 @@ AI agents, autonomous agents, LLM agents, agentic AI, agent orchestration, multi
 ## Links
 
 - **Hire AI employees (The Product):** [sistava.com](https://sistava.com)
+- **All apps and platforms:** [sistava.com/en/download](https://sistava.com/en/download)
+- **Developer Hub (API, MCP, inspect every action):** [sistava.com/en/developers](https://sistava.com/en/developers)
 - **Setup Guide & Documentation:** [sistava.com/guide](https://sistava.com/en/guide)
 - **Download Desktop App (Releases):** [github.com/sista-ai/ai-employee-download/releases](https://github.com/sista-ai/ai-employee-download/releases/latest)
 - **White Label & Source Licensing:** [sistava.com/white-label](https://sistava.com/white-label)
